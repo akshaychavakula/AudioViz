@@ -12,7 +12,7 @@ import javafx.scene.shape.Ellipse;
 
 /**
  *
- * @author dale
+ * @author aksha
  */
 public class EllipseVisualizer1 implements Visualizer {
     

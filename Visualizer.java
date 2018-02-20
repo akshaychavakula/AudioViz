@@ -9,7 +9,7 @@ import javafx.scene.layout.AnchorPane;
 
 /**
  *
- * @author dale
+ * @author aksha
  */
 public interface Visualizer {
     public void start(Integer numBands, AnchorPane vizPane);

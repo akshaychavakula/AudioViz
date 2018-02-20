@@ -13,7 +13,7 @@ import javafx.scene.shape.Rectangle;
 
 /**
  *
- * @author dale
+ * @author aksha
  */
 public class EllipseVisualizer2 implements Visualizer {
     
